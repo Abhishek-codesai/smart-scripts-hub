@@ -3,7 +3,7 @@
 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I love breaking down complex problems, optimizing logic, and building clean, efficient software.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, Java, C
+- **Languages:** Python, C
 - **Core Focus:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms
 - **Tools & Environments:** Git, GitHub, VS Code
 
