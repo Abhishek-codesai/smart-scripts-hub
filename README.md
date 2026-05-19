@@ -1,2 +1,14 @@
-# smart-scripts-hub
-A collection of pure Python scripts and logic puzzles designed to master language syntax, clean code structure, and data manipulation before diving into full-scale ML pipelines.
+# Hi there, I'm Abhishek! 👋
+
+I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I love breaking down complex problems, optimizing logic, and building clean, efficient software.
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, Java, C
+- **Core Focus:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms
+- **Tools & Environments:** Git, GitHub, VS Code
+
+### 🚀 Current Goals
+- Mastering core Machine Learning algorithms and data pipelines.
+- Building open-source projects that bridge the gap between clean software logic and AI.
+
+⚡ *Fun fact: When I'm not debugging or training models, you can probably find me tracking macros or pushing limits at the gym.*
