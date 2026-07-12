@@ -2,6 +2,7 @@
 
 A structured, beginner-to-intermediate Python learning repository covering all core data types and their methods — built for clean GitHub uploads, one topic at a time.
 
+<<<<<<< HEAD
 ## 📁 Folder Structure
 
 | # | Folder | Topics Covered |
@@ -17,3 +18,13 @@ A structured, beginner-to-intermediate Python learning repository covering all c
 
 ---
 > Built by Abhishek | CSE (AI/ML) | PCTE Ludhiana
+=======
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C
+- **Core Focus:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms
+- **Tools & Environments:** Git, GitHub, VS Code
+
+### 🚀 Current Goals
+- Mastering core Machine Learning algorithms and data pipelines.
+- Building open-source projects that bridge the gap between clean software logic and AI.
+>>>>>>> 55d3b9de6fde4a8935dc0f62d673d8c3f2c0ba09
