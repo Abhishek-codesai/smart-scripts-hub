@@ -2,7 +2,6 @@
 
 A structured, beginner-to-intermediate Python learning repository covering all core data types and their methods — built for clean GitHub uploads, one topic at a time.
 
-<<<<<<< HEAD
 ## 📁 Folder Structure
 
 | # | Folder | Topics Covered |
@@ -18,4 +17,3 @@ A structured, beginner-to-intermediate Python learning repository covering all c
 
 ---
 > Built by Abhishek | CSE (AI/ML) | PCTE Ludhiana
-=======
